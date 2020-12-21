@@ -1,0 +1,14 @@
+uuid: 02405c2e-9e60-40de-b5aa-b4e4df412815
+name: daniels-public
+mail: a.ponomaroff@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
